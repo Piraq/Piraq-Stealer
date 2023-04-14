@@ -1,4 +1,4 @@
-## Piraq-Stealer-
+## Piraq-Stealer
 
 ```sh
 soon...
